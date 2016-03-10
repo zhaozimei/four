@@ -2,6 +2,7 @@
     file="package.json"
     if [ -e "$file" ]; then
       npm install
+      jasmine init
       npm test
     echo "File exists"
     else
