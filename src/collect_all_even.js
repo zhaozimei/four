@@ -1,7 +1,6 @@
-'use strict';
 
-function collect_all_even(collection) {
-  //在此处实现函数过程
+function collect_same_elements(collection_a, object_b) {
+ //在此处写代码
 }
 
-module.exports = collect_all_even;
+module.exports = collect_same_elements;
