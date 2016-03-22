@@ -1,7 +1,7 @@
 
 'use strict';
 
-var collect_same_elements = require("../src/practice.js");
+var collect_same_elements = require("../src/collect_all_even.js");
 
 describe('practice-1-4', function() {
 
